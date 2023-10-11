@@ -94,6 +94,11 @@ header .inner .right .menu span {
     
 }
 
+header .inner .right .menu span i {
+    position: absolute;
+    left: -999999999999999999999px;
+}
+
 header .inner .right .menu span:last-child {
     margin-bottom: 0;
 }
